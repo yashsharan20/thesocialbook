@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import Navbar from '../shared/Navbar'
 import { Label } from '../../ui/label'
-import { Input } from '../../ui/Input'
+import { Input } from '../../ui/input'
 import { RadioGroup, RadioGroupItem } from '../../ui/radio-group'
 import { Button } from '../shared/button'
 import { Link, useNavigate } from 'react-router-dom'
